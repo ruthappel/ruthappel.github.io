@@ -12,7 +12,9 @@ layout: default
 
   <br>
 
-  <object data="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" width="100%" height="1000" max-width="1000" type='application/pdf'></object>
+  {% pdf {{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}} height=1000px no_link %}
+
+  <!--object data="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" width="100%" height="1000" max-width="1000" type='application/pdf'></object-->
 
   <!-- <article>
     <div class="cv">
