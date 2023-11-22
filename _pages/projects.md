@@ -8,6 +8,6 @@ nav_order: 3
 
 <div class="publications">
 
-{% bibliography --file workinprogress %}
+{% bibliography -f workinprogress %}
 
 </div>
