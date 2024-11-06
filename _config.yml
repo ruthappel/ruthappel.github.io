@@ -207,7 +207,7 @@ scholar:
   locale: en
 
   source: /_bibliography/
-  bibliography: papers.bib
+  bibliography: references.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
@@ -224,6 +224,16 @@ scholar:
   query: "@*"
   group_by: type, year
   group_order: descending
+
+  type_names:
+    article: "Journal Articles"
+    incollection: "Book Chapters"
+    inproceedings: "Conference Papers"
+    workshop: "Workshop Papers"
+    under_review: "Under Review"
+    work_in_progress: "Work in Progress"
+    policy: "Policy Contributions"
+    media: "Media Contributions"
 
 # Display different badges withs stats for your publications
 enable_publication_badges:
