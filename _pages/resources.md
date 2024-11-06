@@ -4,7 +4,7 @@ title: Resources
 subtitle: Tech Policy Resources
 permalink: /resources/
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 ## Tech Policy Resources
