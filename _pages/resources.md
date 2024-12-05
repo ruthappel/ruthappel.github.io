@@ -9,7 +9,7 @@ nav_order: 3
 
 ## Tech Policy Resources
 
-Last updated: October 16, 2024
+Last updated: December 4, 2024
 
 - [Newsletters](#newsletters)
     - [Tech policy in general](#tech-policy-in-general)
@@ -24,6 +24,7 @@ Last updated: October 16, 2024
 - [Selected AI reading recommendations](#selected-ai-reading-recommendations)
     - [Understanding sources of bias](#understanding-sources-of-bias)
     - [Thinking about risk](#thinking-about-risk)
+    - [Positive use cases](#positive-use-cases)
     - [Approaches to alignment](#approaches-to-alignment)
     - [Evaluation challenges](#evaluation-challenges)
     - [Benchmarks and evaluations](#benchmarks-and-evaluations)
@@ -32,7 +33,6 @@ Last updated: October 16, 2024
     - [Language and its impact](#language-and-its-impact)
     - [AI incident trackers](#ai-incident-trackers)
     - [Model transparency](#model-transparency)
-    - [Positive use cases](#positive-use-cases)
     - [Perceptions of generative AI](#perceptions-regarding-generative-ai)
     - [AI ethics classics](#ai-ethics-classics)
     - [AI policy overviews](#ai-policy-overviews)
@@ -114,8 +114,13 @@ Last updated: October 16, 2024
 #### Understanding sources of bias
 
 - Suresh, H., & Guttag, J. V. (2021). [A Framework for Understanding Sources of Harm throughout the Machine Learning Life Cycle](https://doi.org/3465416.3483305). In *EAAMO 2021: Equity and Access in Algorithms, Mechanisms, and Optimization*.
-- Weidinger, L., Mellor, J., Rauh, M., Griffin, C., Uesato, J., Huang, P.-S., ... Gabriel, I. (2021). [Ethical and social risks of harm from Language Models](http://arxiv.org/abs/2112.04359).
 - Ferrara, E. (2023). [Should ChatGPT be Biased? Challenges and Risks of Bias in Large Language Models](http://arxiv.org/abs/2304.03738).
+
+#### Risk overviews and taxonomies
+
+- Weidinger, L., Mellor, J., Rauh, M., Griffin, C., Uesato, J., Huang, P.-S., ... Gabriel, I. (2021). [Ethical and social risks of harm from Language Models](http://arxiv.org/abs/2112.04359).
+- Marchal, N., Xu, R., Elasmar, R., Gabriel, I., Goldberg, B., & Isaac, W. (2024). [Generative AI Misuse: A Taxonomy of Tactics and Insights from Real-World Data](http://arxiv.org/abs/2406.13843).
+- Gabriel, I., Manzini, A., Keeling, G., Hendricks, L. A., Rieser, V., Iqbal, H., … Research, G. (2024). [The Ethics of Advanced AI Assistants](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/ethics-of-advanced-ai-assistants/the-ethics-of-advanced-ai-assistants-2024-i.pdf).
 
 #### Thinking about risk
 
@@ -135,6 +140,12 @@ Last updated: October 16, 2024
     - Highlights importance of considering context
 - Mökander, J., Schuett, J., Kirk, H. R., & Floridi, L. (2023). [Auditing Large Language Models: A Three-Layered Approach](https://doi.org/10.1007/s43681-023-00289-2). *AI and Ethics*. Springer International Publishing.
 - Yang, E., & Roberts, M. E. (2023). [The Authoritarian Data Problem](https://doi.org/10.1353/jod.2023.a907695). *Journal of Democracy*, *34*(4), 141--150.
+
+#### Positive use cases
+
+- Argyle, L. P., Busby, E., Gubler, J., Bail, C., Howe, T., Rytting, C., & Wingate, D. (2023). [AI Chat Assistants can Improve Conversations about Divisive Topics](http://arxiv.org/abs/2302.07268).
+-  Costello, T. H., Pennycook, G., & Rand, D. G. (2024). [Durably reducing conspiracy beliefs through dialogues with AI](https://doi.org/10.1126/science.adq1814). *Science*, 385(6714), eadq1814. 
+- Tessler, M. H., Bakker, M. A., Jarrett, D., Sheahan, H., Chadwick, M. J., Koster, R., … Summerfield, C. (2024). [AI can help humans find common ground in democratic deliberation](https://doi.org/10.1126/science.adq2852). *Science*, *386*(6719).
 
 #### Approaches to alignment
 
@@ -182,10 +193,11 @@ Last updated: October 16, 2024
 - Microsoft. (2024). [Staying ahead of threat actors in the age of AI](https://www.microsoft.com/en-us/security/blog/2024/02/14/staying-ahead-of-threat-actors-in-the-age-of-ai/).
 - Harbarth, K. (2024). [Guide to the 2024  Elections](https://anchorchange.substack.com/p/guide-to-the-2024-elections).
     - The risk of GenAI for elections may be overestimated. The real risk may be the narrative that GenAI could produce harm
+- Dufour, N., Pathak, A., Samangouei, P., Hariri, N., Deshetti, S., Dudfield, A., … Bregler, C. (2024). [AMMeBa: A Large-Scale Survey and Dataset of Media-Based Misinformation In-The-Wild](http://arxiv.org/abs/2405.11697)
 
 #### Language and its impact
 
-- Nicholas, G., & Bhatia, A. (2023). [Lost in Translation: Large Language Models in Non-English Content Analysis](https://cdt.org/insights/lost-%20in-translation-large-language-models-in-non-english-content-analysis/).
+- Nicholas, G., & Bhatia, A. (2023). [Lost in Translation: Large Language Models in Non-English Content Analysis](https://cdt.org/insights/lost-in-translation-large-language-models-in-non-english-content-analysis/).
 
 #### AI incident trackers
 
@@ -196,16 +208,12 @@ Last updated: October 16, 2024
 - Bommasani, R., Klyman, K., Kapoor, S., Longpre, S., Xiong, B., Maslej, N., & Liang, P. (2024). [The Foundation Model Transparency Index v1.1](ttps://doi.org/10.48550/arXiv.2407.12929).
 - Bommasani, R., Klyman, K., Longpre, S., Kapoor, S., Maslej, N., Xiong, B., ... Liang, P. (2023). [The Foundation Model Transparency Index](http://arxiv.org/abs/2310.12941).
 
-#### Positive use cases
-
-- Argyle, L. P., Busby, E., Gubler, J., Bail, C., Howe, T., Rytting, C., & Wingate, D. (2023). [AI Chat Assistants can Improve Conversations about Divisive Topics](http://arxiv.org/abs/2302.07268).
--  Costello, T. H., Pennycook, G., & Rand, D. G. (2024). [Durably reducing conspiracy beliefs through dialogues with AI](https://doi.org/10.1126/science.adq1814). *Science*, 385(6714), eadq1814. 
-
 #### Perceptions of generative AI
 
 - Jakesch, M., Hancock, J. T., & Naaman, M. (2023). [Human heuristics for AI-generated language are flawed](https://doi.org/10.1073/pnas.2208839120). *Proceedings of the National Academy of Sciences*, *120*(11).
 - Begum Celiktutana, Romain Cadarioa, & Morewedge, C. K. (2017). [People see more of their biases in algorithms](https://doi.org/10.1073/pnas). *Proceedings of the National Academy of Sciences*, *120*.
 - Altay, S., & Gilardi, F. (2024). [People are skeptical of headlines labeled as AI-generated, even if true or human-made, because they assume full AI automation](https://doi.org/10.1093/pnasnexus/pgae403). *PNAS Nexus*. *3*, 1-11.
+- Ejaz, W., Fletcher, R., Nielsen, R. K., & McGregor, S. C. (2024). [What Do People Want? Views on Platforms and the Digital Public Sphere in Eight Countries](https://doi.org/10.60625/risj-8pk9-d398). *Reuters Institute Report*, 1-52.
 
 #### AI ethics classics
 
