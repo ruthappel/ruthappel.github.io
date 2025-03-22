@@ -39,4 +39,4 @@ Beyond scientific impact, I strive for policy impact. I co-authored the [report 
 
 I gained work experience as a Quantitative UX Research Intern at **Google**, as a Research Associate at **Duke University**, and as an Intern at the **EU Delegation to the UN in New York**.
 
-I hold a PhD in Political Communication and a Master's in Computer Science from Stanford University, a Master’s in Public Policy from Science Po Paris and a B.Sc. in Economics from the University of Mannheim.
+I hold a PhD in Political Communication and a Master's in Computer Science from Stanford University, a Master’s in Public Policy from Sciences Po Paris and a B.Sc. in Economics from the University of Mannheim.
