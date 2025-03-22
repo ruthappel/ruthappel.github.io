@@ -8,5 +8,5 @@ nav_order: 1
 
 <div class="publications">
   <!-- All Published Academic Work (grouped by type and year) -->
-  {% bibliography -f {{ site.scholar.bibliography }} -q @article,@incollection,@inproceedings,@workshop,@under_review,@work_in_progress %}
+  {% bibliography -f {{ site.scholar.bibliography }} -q @under_review,@work_in_progress, @article,@incollection,@inproceedings,@workshop %}
 </div>

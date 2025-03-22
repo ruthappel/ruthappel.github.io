@@ -224,14 +224,15 @@ scholar:
   query: "@*"
   group_by: type, year
   group_order: descending
+  type_order: [media, policy, incollection, article, inproceedings,  workshop, work_in_progress, under_review]
 
   type_names:
-    article: "Journal Articles"
-    incollection: "Book Chapters"
-    inproceedings: "Conference Papers"
-    workshop: "Workshop Papers"
     under_review: "Under Review"
     work_in_progress: "Work in Progress"
+    workshop: "Workshop Papers"
+    inproceedings: "Conference Papers"
+    article: "Journal Articles"
+    incollection: "Book Chapters"
     policy: "Policy Contributions"
     media: "Media Contributions"
 
