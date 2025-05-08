@@ -224,7 +224,7 @@ scholar:
   query: "@*"
   group_by: type, year
   group_order: descending
-  type_order: [media, policy, incollection, article, inproceedings,  workshop, work_in_progress, under_review]
+  type_order: [media, policy, work_in_progress, under_review, incollection, article, workshop, inproceedings]
 
   type_names:
     under_review: "Under Review"

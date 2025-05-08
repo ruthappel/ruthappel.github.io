@@ -21,7 +21,7 @@ I am an award-winning researcher combining deep technical expertise in AI and em
 
 I am currently a Stanford Impact Labs Postdoctoral Fellow at Stanford University and my research focuses on the societal impact of AI and social media and on developing evidence-based approaches to technology governance. I integrate insights from computer science and political science, psychology, and economics, and I use computational and experimental methods to analyze large-scale datasets. I am particularly passionate about addressing governance and ethics challenges, preventing misinformation and election interference, and promoting wellbeing.
 
-My work has been published or is under review at top journals such as *Science Advances* or *Nature Human Behaviour*, has been featured in news outlets such as WIRED, and has been recognized with the Nathan McCoby outstanding dissertation award, multiple fellowships, and several impact grants.
+My work has been published at top journals such as *Science Advances*, conferences such as *ICML*, has been featured in news outlets such as WIRED, and has been recognized with the Nathan McCoby outstanding dissertation award, multiple fellowships, and several impact grants.
 
 #### Research
 

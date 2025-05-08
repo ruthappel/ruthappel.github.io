@@ -38,13 +38,13 @@ Last updated: December 4, 2024
     - [AI policy overviews](#ai-policy-overviews)
 - [AI-safety related organizations](#ai-safety-related-organizations)
 - [Stanford groups](#stanford-groups)
-- [Job/internship opportunities](#jobinternship-funding-opportunities)
+- [Job/internship opportunities](#jobinternship-opportunities)
 
 ### Newsletters
 
 #### Tech policy in general
 
-- [Tech Policy Watch newsletter](https://gmail.us8.list-manage.com/subscribe?u=42fbf413961fc8bc2584ac25f&id=3beb31fac3&utm_source=Schaake+Newsletter&utm_campaign=7097704efd-EMAIL_CAMPAIGN_2022_04_12_06_47_COPY_01&utm_medium=email&utm_term=0_3beb31fac3-7097704efd-538327157)
+- [Tech Policy Watch newsletter](https://gmail.us8.list-manage.com/subscribe?u=42fbf413961fc8bc2584ac25f&id=3beb31fac3&utm_source=Schaake+Newsletter)
 - [Stanford Cyber Policy Center newsletter](https://cyber.fsi.stanford.edu/content/newsletters-cpc)
 - [Harvard Berkman Klein Center Newsletter](http://harvard.us10.list-manage2.com/subscribe?u=ef13e6d75b74b1791f13115cd&id=4782a3c945)
 
@@ -257,6 +257,7 @@ Last updated: December 4, 2024
 - [Trust and Safety Professional Association Job Board](https://www.tspa.org/explore/job-board/)
 - [80,000 hours job board](https://jobs.80000hours.org/?refinementList%5Btags_area%5D%5B0%5D=AI%20safety%20%26%20policy)
     (filtered for AI safety & policy)
+- [Responsible Tech Careers & Job Board](https://alltechishuman.org/responsible-tech-job-board)
 - [Stanford Public Interest Technology Jobs Newsletter](https://stanford.us1.list-manage.com/subscribe?u=a77525a849b0888cf8d90460f&id=807864fbe3)
 - [Tech Congress Newsletter](https://www.techcongress.io/)
 - [Stanford Fellowships](https://undergradresearch.stanford.edu/fund-your-project/research-fellowships/listing),
